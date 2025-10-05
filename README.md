@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/22710258/readme.md)
 # 1322004 - Métricas de Software - Trabalho Prático
 
 Universidade Federal de Juiz de Fora - Outubro 2025
